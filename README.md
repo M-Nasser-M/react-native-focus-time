@@ -1,4 +1,4 @@
 React native app using expo 
 download the code 
-npm i 
-npm start
+run npm i 
+then run npm start
